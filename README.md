@@ -9,3 +9,7 @@
 ## 必須要用兩層的加法器來完成(下圖) ##
 
 ![alt text](https://github.com/cj6wall/DL_XORGATE/blob/master/xor_3.png)
+
+## 結果 ##
+
+![alt text](https://github.com/cj6wall/DL_XORGATE/blob/master/xor_4.png)
